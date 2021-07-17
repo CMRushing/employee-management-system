@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/KPetiote/Employee-Management-System.git"
+      "url": "git+https://github.com/CMRushing/employee-management-system.git"
     },
     "author": "Cameron Rushing",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/KPetiote/Employee-Management-System/issues"
+      "url": "https://github.com/CMRushing/employee-management-system.git/issues"
     },
-    "homepage": "https://github.com/KPetiote/Employee-Management-System#readme",
+    "homepage": "https://github.com/CMRushing/employee-management-system.git#readme",
     "dependencies": {
       "console.table": "^0.10.0",
       "figlet": "^1.5.0",
