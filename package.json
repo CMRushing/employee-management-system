@@ -4,23 +4,23 @@
     "description": "Employee Management System",
     "main": "node index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/CMRushing/employee-management-system.git"
+        "type": "git",
+        "url": "git+https://github.com/CMRushing/employee-management-system.git"
     },
     "author": "Cameron Rushing",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/CMRushing/employee-management-system.git/issues"
+        "url": "https://github.com/CMRushing/employee-management-system.git/issues"
     },
     "homepage": "https://github.com/CMRushing/employee-management-system.git#readme",
     "dependencies": {
-      "console.table": "^0.10.0",
-      "figlet": "^1.5.0",
-      "inquirer": "^7.3.3",
-      "mysql2": "^2.2.5"
+        "console.table": "^0.10.0",
+        "figlet": "^1.5.0",
+        "inquirer": "^7.3.3",
+        "mysql2": "^2.2.5"
     }
-  }
+}
