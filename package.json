@@ -2,10 +2,10 @@
     "name": "employee-management-system",
     "version": "1.0.0",
     "description": "Employee Management System",
-    "main": "node index.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js"
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
@@ -19,8 +19,14 @@
     "homepage": "https://github.com/CMRushing/employee-management-system.git#readme",
     "dependencies": {
         "console.table": "^0.10.0",
+        "dotenv": "^10.0.0",
         "figlet": "^1.5.0",
         "inquirer": "^7.3.3",
-        "mysql2": "^2.2.5"
+        "mysql": "^2.18.1",
+        "mysql2": "^2.2.5",
+        "sequelize": "^6.6.5"
+    },
+    "devDependencies": {
+        "mysql-db-seed": "^0.0.4"
     }
 }
